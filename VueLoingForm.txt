@@ -21,7 +21,7 @@
                                                 <v-tooltip bottom>
                                                     <v-btn icon
                                                            large
-                                                           href="https://github.com/JayantSingh97/Html-Page-s-/new/master"
+                                                           href="https://github.com/JayantSingh97"
                                                            target="_blank"
                                                            slot="activator">
                                                         <v-icon large>code</v-icon>
